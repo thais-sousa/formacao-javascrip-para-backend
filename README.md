@@ -1,4 +1,4 @@
-# Formação JS para Back-end (ALURA)
+# Formação JavaScript para Back-end (ALURA)
 
 ## 📜 Sobre
 
