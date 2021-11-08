@@ -24,7 +24,7 @@ A partir destas bases, conseguirei evoluir em complexidade, aumentando o meu rep
   $ git clone https://github.com/thais-sousa/formacao-javascript-para-backend.git
   
   # Entrar no diretório
-  $ cd formacao-javascript-para-backend.git
+  $ cd formacao-javascript-para-backend
 
  ```
 ---
